@@ -1,0 +1,154 @@
+.contera{
+    border-radius: 5px;
+    height: 80%;
+    width: 50%;
+    margin-left: 20px;
+    margin: 0 auto;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.contera h1{
+    font-size: 42px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: #f6f7f8;
+}
+
+.contera h1:hover{
+    transform: scale(1.01);
+    cursor: pointer;
+    color: #f69522;
+}
+
+.contera p:hover{
+    font-weight: 500;
+    margin-bottom: 30px;
+    transform: scale(1.01);
+    cursor: pointer;
+    color: #f69522;
+
+}
+
+
+
+
+.conterb{
+    background-color: #f6f7f8;
+    border-radius: 50px;
+    height: 80%;
+    width: 30%;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    background-image: url('../images/images.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.conterb:hover{
+    transform: scale(1.01);
+    box-shadow: 0 2px 4px rgba(3, 3, 3, 0.1) ;
+}
+
+#titulo1{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 30px;
+    color: #f6f7f8;
+    
+}
+
+#titulo1:hover{
+    transform: scale(1.01);
+    cursor: pointer;
+    color: #f69522;
+}
+#conter-principal{
+
+  
+    width: 90%;
+    height: 85%;
+    margin: 0 auto;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.conterc{
+    background-color: #f6f7f8;
+    border-radius: 50px;
+    height: 60%;
+    width: 30%;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 30px;
+   
+}
+
+.conterd{
+    background-color: #f6f7f8;
+    border-radius: 50px;
+    height: 60%;
+    width: 30%;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 30px;
+
+}
+
+.contere{
+    background-color: #f6f7f8;
+    border-radius: 50px;
+    height: 60%;
+    width: 30%;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 30px;
+
+}
+.conterc:hover{
+    transform: scale(1.01);
+    box-shadow: 0 2px 4px rgba(3, 3, 3, 0.1);
+    cursor: pointer;
+}
+
+.conterd:hover{
+    transform: scale(1.01);
+    box-shadow: 0 2px 4px rgba(3, 3, 3, 0.1);
+    cursor: pointer;
+
+}
+.contere:hover{
+    transform: scale(1.01);
+    box-shadow: 0 2px 4px rgba(3, 3, 3, 0.1);
+    cursor: pointer;
+
+}
+
+.texto1{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.texto2{
+    color: #3e3e3e;
+}
+
+.decorarLink{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    color: #3e3e3e;
+}
+
+.decorarLink:hover{
+    color: #f69522;
+}
+
